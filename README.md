@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hagenfarrell&label=Profile%20views&color=0e75b6&style=flat" alt="hagenfarrell" /> </p>
 
-- 🌱 I’m currently learning **React, C++, AlpineJS, Haskell**
+- 🌱 I’m currently learning **Vulkan API, Refining my C++, GLSL, CMAKE**
 
-- 💬 Ask me about **Evolutionary Computing, Algorithm Design, USACO**
+- 💬 Ask me about **Computer Graphics, Game development, Physics Engines**
 
 - 📫 How to reach me **hagen.farrell@gmail.com**
 
