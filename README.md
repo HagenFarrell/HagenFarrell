@@ -3,15 +3,11 @@
 I'm a developer passionate about Robotics, Embedded Systems, 3D printing & graphics programming.
 
 ## Tech Stack
-Here are some of the key technologies I work with:
-
 ![Skills](https://skillicons.dev/icons?i=cpp,cs,lua,neovim)
 
 - **C++**: For graphics programming and performance-critical apps (e.g., OpenGL projects).
 - **C#**: For simulations and Unity-based development.
 - **Neovim**: My go-to editor for efficient coding workflows.
-
-*(Note: If you want to add more like ROS for robotics or Blender for 3D, we can expand this! The icons auto-arrange and are fully customizable.)*
 
 ## Projects
 A few highlights from my repos:
