@@ -53,8 +53,6 @@ Here are some of the key technologies I work with:
 - 3D & Design:  
   [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)]()
 
-*(Feel free to add short descriptions or links to each if needed, e.g., link the badge to a relevant repo or docs. If you've used even more technologies, list them out, and I can help generate badges for those too!)*
-
 ## Projects
 A few highlights from my repos:
 - **[HospitalScenario](https://github.com/HagenFarrell/HospitalScenario)**: A multiplayer tactical simulation in C# for radiological response training (4 stars).
