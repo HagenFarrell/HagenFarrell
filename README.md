@@ -5,10 +5,6 @@ I'm a developer passionate about Robotics, Embedded Systems, 3D printing & graph
 ## Tech Stack
 ![Skills](https://skillicons.dev/icons?i=cpp,cs,lua,neovim)
 
-- **C++**: For graphics programming and performance-critical apps (e.g., OpenGL projects).
-- **C#**: For simulations and Unity-based development.
-- **Neovim**: My go-to editor for efficient coding workflows.
-
 ## Projects
 A few highlights from my repos:
 - **[HospitalScenario](https://github.com/HagenFarrell/HospitalScenario)**: A multiplayer tactical simulation in C# for radiological response training (4 stars).
