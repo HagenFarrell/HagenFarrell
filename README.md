@@ -7,10 +7,9 @@ I'm a developer passionate about Robotics, Embedded Systems, 3D printing & graph
 
 ## Projects
 A few highlights from my repos:
-- **[HospitalScenario](https://github.com/HagenFarrell/HospitalScenario)**: A multiplayer tactical simulation in C# for radiological response training (4 stars).
+- **[HospitalScenario](https://github.com/HagenFarrell/HospitalScenario)**: A multiplayer tactical simulation in C# for radiological response training.
 - **[OpenGL-GLFW-GLEW-GLM](https://github.com/HagenFarrell/OpenGL-GLFW-GLEW-GLM)**: Exploring graphics rendering with C++ and OpenGL libraries.
 - **[AtlasEngine](https://github.com/HagenFarrell/AtlasEngine)**: A C++ engine project (details TBD).
-- **[kickstart.nvim](https://github.com/HagenFarrell/kickstart.nvim)**: Customized Neovim setup in Lua.
 
 ## Stats
 [![HagenFarrell's GitHub stats](https://github-readme-stats.vercel.app/api?username=HagenFarrell&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
